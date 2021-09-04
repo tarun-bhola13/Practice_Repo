@@ -1,2 +1,4 @@
-this is the second file in the git repository
+this is the second file maintained in second branch in the git repository
+new line of code added in the second branch
+
 
