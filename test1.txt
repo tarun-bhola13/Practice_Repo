@@ -1,3 +1,2 @@
 this is the first file modified in second branch used in git repo
-new code added in the second branch
-
+new line added in branch
