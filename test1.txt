@@ -1,2 +1,3 @@
-this is the first file used in git repo
+this is the first file modified in branch used in git repo
+new line added in branch
 
