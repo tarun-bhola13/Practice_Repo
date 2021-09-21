@@ -1,2 +1,3 @@
 this is the first file modified in second branch used in git repo
 new line added in branch
+added new line to test git amend
